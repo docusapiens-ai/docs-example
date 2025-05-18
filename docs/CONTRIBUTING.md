@@ -23,7 +23,7 @@ Esta guía te proporcionará todo lo que necesitas saber para realizar contribuc
 
 ## Código de Conducta
 
-Este proyecto y todos los que participan en él se rigen por el [Código de Conducta de Randomizer Supreme](CODE_OF_CONDUCT.md). Al participar, se espera que respetes este código. Por favor, reporta cualquier comportamiento inaceptable a [emaildelproyecto@ejemplo.com](mailto:emaildelproyecto@ejemplo.com).
+Este proyecto y todos los que participan en él se rigen por el ............... Al participar, se espera que respetes este código. Por favor, reporta cualquier comportamiento inaceptable a [emaildelproyecto@ejemplo.com](mailto:emaildelproyecto@ejemplo.com).
 
 ## Cómo Contribuir
 
